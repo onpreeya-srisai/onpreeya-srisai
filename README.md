@@ -1,4 +1,5 @@
 # Hi, I'm Onpreeya. Welcome to my github profile👋
+I’m a senior university student at Kasetsart University Sriracha Campus. My major is computer engineering and informatics. I’m studying the data science category.
 
 <!--
 **onpreeya-srisai/onpreeya-srisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
